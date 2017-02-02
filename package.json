@@ -1,0 +1,22 @@
+{
+  "name": "mep-tools.underline",
+  "version": "1.0.0",
+  "description": "Underline Tool",
+  "main": "stylesheets/_tool-underline.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "tool-underline",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/tools.underline.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
