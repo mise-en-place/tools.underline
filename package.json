@@ -20,6 +20,6 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.palette": "github:mise-en-place/tools.palette",
+    "mep-tools.palette": "github:mise-en-place/tools.palette"
   }
 }
