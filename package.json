@@ -1,6 +1,6 @@
 {
   "name": "mep-tools.underline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Underline Tool",
   "main": "stylesheets/_tool-underline.scss",
   "eyeglass": {
