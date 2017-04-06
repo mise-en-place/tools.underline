@@ -1,4 +1,4 @@
-@import "tool-palette";
+@import "~mep-tools.palette";
 
 @mixin underline($color: palette(grey, dark)){
     background-image: linear-gradient(to bottom,rgba(0,0,0,0) 50%, $color 50%);
